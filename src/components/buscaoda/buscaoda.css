@@ -1,0 +1,21 @@
+.busca{
+    display: flex;
+    text-align: center;
+    width: 100%;
+    color: rgb(36, 29, 29);
+    background-color: rgb(200, 196, 196);
+}
+
+.busca > input{
+    margin: 0.5em;
+    height: 1.6em;
+    padding: 0.75em 1em ;
+    border: 1px solid rgba(246, 151, 151, 0.15);
+}
+
+.lupa{
+    text-align: center;
+    height: 1.8em;
+    width: auto;
+    padding: 0.75em;
+}
