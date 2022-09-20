@@ -13,7 +13,7 @@ export const Busca = ({busca, buscaODA}) =>{
             />
 
             <div>
-               <img src='lupa.png' className='lupa'></img>
+               <img src='lupa.png' className='lupa' alt='imagem correspondente a uma lupa de pesquisa'></img>
             </div>
         </div>
     )
